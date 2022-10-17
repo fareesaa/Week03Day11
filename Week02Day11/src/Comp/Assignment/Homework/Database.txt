@@ -1,0 +1,11 @@
+create database worker;
+
+CREATE TABLE worker.data_staff (
+    ID int auto_increment not null,
+    Nama varchar(50),
+    GajiPokok bigint,
+    JmlAbsensi int,
+    JmlTidakMasuk int,
+    Status varchar(50),
+    primary key (ID)
+);

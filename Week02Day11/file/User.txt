@@ -1,0 +1,4 @@
+id,username,password
+1,naufal@gmail.com,N@ufal123454
+2,faris@gmail.com,F@ris123454
+3,radit@gmail.com,R@dit123454
